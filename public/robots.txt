@@ -1,0 +1,4 @@
+Sitemap: https://schedule.hellopangea.com/sitemap.xml
+
+User-agent: *
+Disallow: /events/
