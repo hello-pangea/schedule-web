@@ -1,5 +1,4 @@
 export function getApiEndpoint(path: string) {
-  return `http://localhost:5001${path}`;
   return process.env.NEXT_PUBLIC_API_DOMAIN + path;
 }
 
